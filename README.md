@@ -21,9 +21,6 @@
 
 Projeto realizado durante a semana multi-stack da [TreinaWeb](https://github.com/treinaweb). Tanto o back quanto frontend foram desenvolvido durante esse workshop. É possível realizar o CRUD de diaristas com o framework Django e visualizá-las no front com a biblioteca React.
 
-<img src="./.github/Captura%20de%20Tela%20(40).png">
-<img src="./.github/Captura%20de%20Tela%20(41).png">
-
 ## Instalação
 
 ```bash
